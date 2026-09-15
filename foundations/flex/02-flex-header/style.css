@@ -3,9 +3,10 @@
   font-family: serif, monospace;
   background: papayawhip;
   display: flex;
-  height: 70px;
+  padding: 5px;
   align-items: center;
   flex-shrink: 1;
+  flex-grow: 1;
   flex-basis: auto;
 }
 
