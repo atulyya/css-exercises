@@ -15,8 +15,10 @@ img {
   padding: 0;
 }
 
-.header, .footer {
+.header,
+.footer {
   display: flex;
+  flex-shrink: 0;
 }
 
 .left-links,
